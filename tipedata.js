@@ -18,3 +18,6 @@ console.log(databool);
 console.log(typeof databool);
 
 //data transisi
+let data = 2;
+console.log(data);
+console.log(typeof data);
