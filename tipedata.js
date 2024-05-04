@@ -8,3 +8,11 @@ console.log(datastring);
 console.log(typeof datastring);
 
 //data number
+let datanumber = 18;
+console.log(datanumber);
+console.log(typeof datanumber);
+
+//data boolean
+let databool = true;
+console.log(databool);
+console.log(typeof databool)
