@@ -15,4 +15,6 @@ console.log(typeof datanumber);
 //data boolean
 let databool = true;
 console.log(databool);
-console.log(typeof databool)
+console.log(typeof databool);
+
+//data transisi
