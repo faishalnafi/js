@@ -36,3 +36,6 @@ namabaru = "ballala";
 console.log(namabaru);
 
 //const;
+const namadepan = "budiono";
+console.log(namadepan);
+//namadepan = "budiman"; //tdk dapat dilakukan karena menggunakan constanta
