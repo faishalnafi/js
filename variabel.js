@@ -17,6 +17,13 @@ console.log(namadepan);
 let namafull = "budi";
 {
     let namafull = "surucup";
-    console.log(namafull);
+    console.log(namafull); //let tergantung dari scopnya
 }
 console.log(namafull);
+
+var namatengah = "budiman";
+{
+    var namatengah = "ucup";
+    console.log(namatengah); //var scop global mengambil data terbaru
+}
+console.log(namatengah);
