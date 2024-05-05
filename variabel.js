@@ -5,3 +5,11 @@
 //let;
 let nama = "budi budiman";
 console.log(nama);
+nama = "ucup surucup"; //repalce data tidak perlu menampilkan tipe variabel
+console.log(nama);
+
+//var;
+var namadepan = "ucup";
+console.log(namadepan);
+namadepan = "budi";
+console.log(namadepan);
