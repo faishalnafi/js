@@ -21,3 +21,8 @@ console.log(typeof databool);
 let data = 2;
 console.log(data);
 console.log(typeof data);
+
+//data undefined
+let datakosong;
+console.log(datakosong);
+console.log(typeof datakosong);
