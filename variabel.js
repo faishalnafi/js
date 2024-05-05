@@ -27,3 +27,12 @@ var namatengah = "budiman";
     console.log(namatengah); //var scop global mengambil data terbaru
 }
 console.log(namatengah);
+
+namabaru = "ballala";
+{
+    namabaru = "trilili";
+    console.log(namabaru); // dianggap sebagai var dan bekerja menggunakan var;
+}
+console.log(namabaru);
+
+//const;
