@@ -13,3 +13,10 @@ var namadepan = "ucup";
 console.log(namadepan);
 namadepan = "budi";
 console.log(namadepan);
+
+let namafull = "budi";
+{
+    let namafull = "surucup";
+    console.log(namafull);
+}
+console.log(namafull);
